@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\bin\Debug\netcoreapp3.1\Taxes.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Taxes\Taxes\Taxes\obj\Debug\netcoreapp3.1\Taxes.genruntimeconfig.cache
